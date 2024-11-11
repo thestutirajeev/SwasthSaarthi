@@ -19,6 +19,6 @@ This application serves as a bridge between healthcare providers and rural commu
 ### Developed by:
 #### Ish Jaiswal (@ishjaiswal7)
 #### Stuti Rajeev (@thestutirajeev)
-#### Barsha Routh (@barsharouth7)
+#### Barsha Routh (@BarshaRouth)
 #### Nidhi Tulsyan
 #### Shrishti Jalan
