@@ -16,7 +16,9 @@ Monitors the platform's overall activity and manages health worker accounts.
 
 This application serves as a bridge between healthcare providers and rural communities, helping to promote health literacy and improve access to medical support in remote regions.
 
-Created by:
-@ishjaiswa7
-@thestutirajeev
-@barsharouth7
+### Developed by:
+#### Ish Jaiswal (@ishjaiswal7)
+#### Stuti Rajeev (@thestutirajeev)
+#### Barsha Routh (@barsharouth7)
+#### Nidhi Tulsyan
+#### Shrishti Jalan
