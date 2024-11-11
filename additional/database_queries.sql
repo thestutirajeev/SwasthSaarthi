@@ -1,3 +1,4 @@
+--Oracle 11g XE
 --DROP
 DROP table Resident;
 DROP table HealthWorker;
