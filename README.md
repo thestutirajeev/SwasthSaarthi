@@ -1,4 +1,3 @@
-
 # SwasthSaarthi
 SwasthSaarthi (स्वस्थ सारथी), meaning "Health Companion" in Hindi, is an online platform designed to promote healthcare awareness and accessibility in rural areas. This project was developed in a 24-hour codeathon by a team of five using Java Servlet MVC architecture, JSP, and an Oracle database.
 
