@@ -1,6 +1,7 @@
 # SwasthSaarthi
 SwasthSaarthi (स्वस्थ सारथी), meaning "Health Companion" in Hindi, is an online platform designed to promote healthcare awareness and accessibility in rural areas. This project was developed in a 24-hour codeathon by a team of five using Java Servlet MVC architecture, JSP, and an Oracle database.
 
+
 ## Overview
 SwasthSaarthi is built to connect rural residents with local healthcare resources. The application allows rural users to create an account, book appointments with registered doctors in their locality, and stay updated with local health-related events like vaccination camps, medical camps, and awareness marathons. Additionally, users can read blogs on health topics posted by healthcare workers.
 
@@ -19,7 +20,6 @@ This application serves as a bridge between healthcare providers and rural commu
 
 ### Developed by:
 
-[AlibabaCloud]: https://github.com/aliyun-sls/opentelemetry-demo
 #### [Ish Jaiswal](https://github.com/ishjaiswal7)
 #### [Stuti Rajeev](https://github.com/thestutirajeev)
 #### [Barsha Routh](https://github.com/BarshaRouth) 
