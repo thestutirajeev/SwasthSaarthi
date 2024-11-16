@@ -18,6 +18,7 @@ This application serves as a bridge between healthcare providers and rural commu
 #
 
 ### Developed by:
+
 [AlibabaCloud]: https://github.com/aliyun-sls/opentelemetry-demo
 #### [Ish Jaiswal]: https://github.com/ishjaiswal7
 #### Stuti Rajeev (@thestutirajeev)
