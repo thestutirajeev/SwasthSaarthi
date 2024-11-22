@@ -23,5 +23,5 @@ This application serves as a bridge between healthcare providers and rural commu
 #### [Ish Jaiswal](https://github.com/ishjaiswal7)
 #### [Stuti Rajeev](https://github.com/thestutirajeev)
 #### [Barsha Routh](https://github.com/BarshaRouth) 
-#### Nidhi Tulsyan
-#### Shrishti Jalan
+#### [Nidhi Tulsyan](https://github.com/NidhiTulsyan)
+#### [Shrishti Jalan](https://github.com/Srishti-jalan5)
