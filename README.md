@@ -96,7 +96,7 @@ The **Event Module** connects residents to local **health events** like vaccinat
 ### 📝 **1. Prerequisites**  
 ✔️ **JDK 11+** installed ☕  
 ✔️ **Apache Tomcat 9+** configured 🌐  
-✔️ **MySQL** for the database 🗄️  
+✔️ **Oracle Express** for the database 🗄️  
 ✔️ **Eclipse IDE** for development 💻  
 
 ---
