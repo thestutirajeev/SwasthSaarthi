@@ -1,16 +1,16 @@
-# 🌿 **Swasth Sarthi** - *Your Guide to Rural Healthcare Awareness - A 24 hour Hackathon Project* 🚑🌱  
+# 🌿 **Swasth Saarthi** - *Your Guide to Rural Healthcare Awareness - A 24 hour Hackathon Project* 🚑🌱  
 
 ## 🌟 **Overview**  
-**Swasth Sarthi** 🚀 is a web-based application designed to improve **healthcare awareness** and **accessibility** in rural areas 🏡. It bridges the gap between **residents** and **healthcare workers**, provides **up-to-date health information** 📚, enables **appointment bookings** 🗓️, and engages users with informative **blogs** ✍️ and community **events** 🎉.  
+**Swasth Saarthi** **स्वस्थ सारथी**🚀 is a web-based application designed to improve **healthcare awareness** and **accessibility** in rural areas 🏡. It bridges the gap between **residents** and **healthcare workers**, provides **up-to-date health information** 📚, enables **appointment bookings** 🗓️, and engages users with informative **blogs** ✍️ and community **events** 🎉.  
 
 Our goal is to empower rural communities with essential healthcare resources, making healthcare more approachable and effective 🌱.
 
 ---
 
 ## 🛠️ **Tech Stack**  
-💻 **Frontend:** HTML, CSS, JavaScript, JSP 🌍  
-☕ **Backend:** Java, Servlets, JDBC, Struts2 🧩  
-🗄️ **Database:** MySQL 🗃️  
+💻 **Frontend:** HTML, CSS, Bootstrap, JavaScript, JSP 🌍  
+☕ **Backend:** Java, Servlets, JDBC 🧩  
+🗄️ **Database:** Oracle 🗃️  
 🔧 **Tools:** Eclipse, Apache Tomcat 🌱  
 📦 **Version Control:** GitHub 🗂️  
 ---
