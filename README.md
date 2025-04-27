@@ -140,19 +140,5 @@ cd SwasthSaarthi
 ✅ Approve submitted **blogs** & **events** 📝  
 ✅ Maintain platform integrity 🛡️  
 
----
-## 👥 **Contributors**  
-#### [Ish Jaiswal](https://github.com/ishjaiswal7)
-#### [Stuti Rajeev](https://github.com/thestutirajeev)
-#### [Barsha Routh](https://github.com/BarshaRouth) 
-#### [Nidhi Tulsyan](https://github.com/NidhiTulsyan)
-#### [Shrishti Jalan](https://github.com/Srishti-jalan5)
-
----
-
-## 📄 **License**  
-This project is open-source under the **MIT License** 📝  
-
----
 
 💖 *Together, let's make rural healthcare more informed, accessible, and community-driven!* 🌿🏥
